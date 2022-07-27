@@ -8,5 +8,5 @@ for s in range(len(list1)):
         if list1[i] > list1[j]:
             list1[i], list1[j] = list1[j], list1[i]
             print(list123)
-# print(list1444232111)
+# print(list14442321111231)
 12312312
