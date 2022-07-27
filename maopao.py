@@ -7,5 +7,6 @@ for s in range(len(list1)):
         j = i + 1
         if list1[i] > list1[j]:
             list1[i], list1[j] = list1[j], list1[i]
-            print(list1)
+            print(list123)
 # print(list1444232111)
+12312312
